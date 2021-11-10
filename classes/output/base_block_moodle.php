@@ -8,11 +8,10 @@ defined('MOODLE_INTERNAL') || die();
 use renderable;
 use renderer_base;
 use templatable;
+/*
 use html_writer;
 use moodle_url;
-use core_course_category;
-use coursecat_helper;
-use DOMDocument;
+*/
 
 /**
  * Class containing data for myprofile block.
