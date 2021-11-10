@@ -14,10 +14,11 @@ use moodle_url;
 */
 
 /**
- * Class containing data for myprofile block.
+ * Class containing data for base_block_moodle block.
  *
- * @copyright  2018 Mihail Geshoski <mihail@moodle.com>
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @package    base_block_moodle
+ * @copyright  2021 Jorge Castrillo <jorge@train-in.cr>
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or lat
  */
 class base_block_moodle implements renderable, templatable {
 
